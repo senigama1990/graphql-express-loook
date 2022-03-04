@@ -1,0 +1,17 @@
+[
+  { 
+    "user_id": 1, 
+    "first_name": "Sobir", 
+    "telephone": "998941049914"
+  },
+  { 
+    "user_id": 2, 
+    "first_name": "Rahim", 
+    "telephone": "998941049914"
+  },
+  { 
+    "user_id": 3, 
+    "first_name": "Ilhom", 
+    "telephone": "998941049914"
+  }
+]

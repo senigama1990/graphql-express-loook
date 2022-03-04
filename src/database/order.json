@@ -1,0 +1,21 @@
+[
+  { "user_id": 1, 
+    "food_id": 1, 
+    "count": 2
+  },
+  { 
+    "user_id": 1, 
+    "food_id": 3, 
+    "count": 1
+  },
+  { 
+    "user_id": 2, 
+    "food_id": 7, 
+    "count": 1
+  },
+  { 
+    "user_id": 3, 
+    "food_id": 6, 
+    "count": 1
+  }
+]

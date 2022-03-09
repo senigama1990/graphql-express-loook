@@ -12,12 +12,12 @@
   { 
     "food_id": 3, 
     "food_name": "Chiken Wings", 
-    "food_img": "./img/chicke_wings.jpeg"
+    "food_img": "./img/chicken_wings.jpeg"
   },
   { 
     "food_id": 4, 
     "food_name": "Burger Cheese", 
-    "food_img": "./img/burge_cheese.jpeg"
+    "food_img": "./img/burger_cheese.jpeg"
   },
   { 
     "food_id": 5, 
@@ -31,7 +31,7 @@
   },
   { 
     "food_id": 7, 
-    "food_name": "Fanta", "food_img": 
-    "./img/fanta.jpeg"
+    "food_name": "Fanta", 
+    "food_img": "./img/fanta.jpeg"
   }
 ]

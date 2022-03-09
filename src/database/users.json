@@ -1,17 +1,22 @@
 [
-  { 
-    "user_id": 1, 
-    "first_name": "Sobir", 
-    "telephone": "998941049914"
+  {
+    "user_id": 1,
+    "username": "Sobir",
+    "contact": "998941049914"
   },
-  { 
-    "user_id": 2, 
-    "first_name": "Rahim", 
-    "telephone": "998941049914"
+  {
+    "user_id": 2,
+    "username": "Rahim",
+    "contact": "998941049914"
   },
-  { 
-    "user_id": 3, 
-    "first_name": "Ilhom", 
-    "telephone": "998941049914"
+  {
+    "user_id": 3,
+    "username": "Ilhom",
+    "contact": "998941049914"
+  },
+  {
+    "username": "Suxrob",
+    "contact": "998911111111",
+    "user_id": 4
   }
 ]
